@@ -1,0 +1,23 @@
+# Common 
+STORAGE_PATH: 'Data'
+OUTPUT_PATH: 'Outputs'
+
+# Reddit
+REDDIT_CLIENT_ID: ""
+REDDIT_CLIENT_SECRET: ""
+REDDIT_USER_AGENT: ""
+REDDIT_SUBREDDIT: 'softwaredevelopment'
+REDDIT_DATA_CSV: "reddit_data.csv"
+
+# Stackoverflow
+STACKOVERFLOW_API_KEY: ""
+STACKOVERFLOW_DATA_CSV : 'stackoverflow_data.csv' 
+STACKOVERFLOW_QUERY_STRING: 'Software development'
+
+# Scopus
+SCOPUS_API_KEY: ""
+SCOPUS_DATA_CSV: 'scopus_data.csv'
+SCOPUS_QUERY_STRING_1: 'Software development'
+SCOPUS_QUERY_STRING_2: 'Javascript'
+
+
