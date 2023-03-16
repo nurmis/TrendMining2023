@@ -31,7 +31,7 @@ Trend Mining project
 
 - Clone the repo by running the following command:
 
->  `git clone https://github.com/M3SOulu/TrendMiningPython.git`
+>  `git clone https://github.com/nurmis/TrendMining2023.git`
 
 - Open the cloned project in `VS Code` and also in the `CMD prompt` that you launced in previous setup
 
