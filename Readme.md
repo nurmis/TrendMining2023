@@ -3,7 +3,7 @@
 
   
 
-Trend Mining project
+Trend Mining project originally by the user hadimir22. Used in the Next Generation Software Engineering Course at the University of Oulu in 2023.
 
   
 
